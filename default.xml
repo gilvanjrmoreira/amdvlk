@@ -11,10 +11,10 @@
            sync-s="true" />
 
   <project path="drivers/xgl" name="xgl" revision="dev"/>
-  <project path="drivers/pal" name="pal" revision="dev"/>
+  <project path="drivers/pal" name="pal" revision="2609e1f718a41adc73a343fbcd2d76f41b9e91c7"/>
   <project path="drivers/llpc" name="llpc" revision="dev"/>
   <project path="drivers/gpurt" name="gpurt" revision="dev"/>
-  <project path="drivers/llvm-project" name="llvm-project" revision="amd-gfx-gpuopen-dev"/>
+  <project path="drivers/llvm-project" name="llvm-project" revision="ccc168589b707411b482586b452b591dabfe36ff"/>
   <project path="drivers/third_party/metrohash" name="MetroHash" revision="amd-master"/>
   <project path="drivers/third_party/cwpack" name="CWPack" revision="amd-master"/>
 
